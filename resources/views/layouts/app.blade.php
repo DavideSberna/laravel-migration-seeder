@@ -44,7 +44,7 @@
     </header>
 
     <main class="bg-light">
-        <section class="container">
+        <section class="container-fluid">
             @yield('content')
         </section>
     </main>
